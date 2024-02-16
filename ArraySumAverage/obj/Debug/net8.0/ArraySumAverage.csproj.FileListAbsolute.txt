@@ -1,0 +1,14 @@
+E:\Homework\Arrays\ArraySumAverage\bin\Debug\net8.0\ArraySumAverage.exe
+E:\Homework\Arrays\ArraySumAverage\bin\Debug\net8.0\ArraySumAverage.deps.json
+E:\Homework\Arrays\ArraySumAverage\bin\Debug\net8.0\ArraySumAverage.runtimeconfig.json
+E:\Homework\Arrays\ArraySumAverage\bin\Debug\net8.0\ArraySumAverage.dll
+E:\Homework\Arrays\ArraySumAverage\bin\Debug\net8.0\ArraySumAverage.pdb
+E:\Homework\Arrays\ArraySumAverage\obj\Debug\net8.0\ArraySumAverage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Homework\Arrays\ArraySumAverage\obj\Debug\net8.0\ArraySumAverage.AssemblyInfoInputs.cache
+E:\Homework\Arrays\ArraySumAverage\obj\Debug\net8.0\ArraySumAverage.AssemblyInfo.cs
+E:\Homework\Arrays\ArraySumAverage\obj\Debug\net8.0\ArraySumAverage.csproj.CoreCompileInputs.cache
+E:\Homework\Arrays\ArraySumAverage\obj\Debug\net8.0\ArraySumAverage.dll
+E:\Homework\Arrays\ArraySumAverage\obj\Debug\net8.0\refint\ArraySumAverage.dll
+E:\Homework\Arrays\ArraySumAverage\obj\Debug\net8.0\ArraySumAverage.pdb
+E:\Homework\Arrays\ArraySumAverage\obj\Debug\net8.0\ArraySumAverage.genruntimeconfig.cache
+E:\Homework\Arrays\ArraySumAverage\obj\Debug\net8.0\ref\ArraySumAverage.dll

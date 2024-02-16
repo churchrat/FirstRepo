@@ -1,0 +1,14 @@
+C:\Михаил Кръстев 9а\Arrays\ArraysInputOutput\bin\Debug\net8.0\ArraysInputOutput.exe
+C:\Михаил Кръстев 9а\Arrays\ArraysInputOutput\bin\Debug\net8.0\ArraysInputOutput.deps.json
+C:\Михаил Кръстев 9а\Arrays\ArraysInputOutput\bin\Debug\net8.0\ArraysInputOutput.runtimeconfig.json
+C:\Михаил Кръстев 9а\Arrays\ArraysInputOutput\bin\Debug\net8.0\ArraysInputOutput.dll
+C:\Михаил Кръстев 9а\Arrays\ArraysInputOutput\bin\Debug\net8.0\ArraysInputOutput.pdb
+C:\Михаил Кръстев 9а\Arrays\ArraysInputOutput\obj\Debug\net8.0\ArraysInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Михаил Кръстев 9а\Arrays\ArraysInputOutput\obj\Debug\net8.0\ArraysInputOutput.AssemblyInfoInputs.cache
+C:\Михаил Кръстев 9а\Arrays\ArraysInputOutput\obj\Debug\net8.0\ArraysInputOutput.AssemblyInfo.cs
+C:\Михаил Кръстев 9а\Arrays\ArraysInputOutput\obj\Debug\net8.0\ArraysInputOutput.csproj.CoreCompileInputs.cache
+C:\Михаил Кръстев 9а\Arrays\ArraysInputOutput\obj\Debug\net8.0\ArraysInputOutput.dll
+C:\Михаил Кръстев 9а\Arrays\ArraysInputOutput\obj\Debug\net8.0\refint\ArraysInputOutput.dll
+C:\Михаил Кръстев 9а\Arrays\ArraysInputOutput\obj\Debug\net8.0\ArraysInputOutput.pdb
+C:\Михаил Кръстев 9а\Arrays\ArraysInputOutput\obj\Debug\net8.0\ArraysInputOutput.genruntimeconfig.cache
+C:\Михаил Кръстев 9а\Arrays\ArraysInputOutput\obj\Debug\net8.0\ref\ArraysInputOutput.dll
