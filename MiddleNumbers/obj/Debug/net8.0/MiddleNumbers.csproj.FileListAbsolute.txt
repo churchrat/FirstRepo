@@ -1,0 +1,15 @@
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\bin\Debug\net8.0\MiddleNumbers.exe
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\bin\Debug\net8.0\MiddleNumbers.deps.json
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\bin\Debug\net8.0\MiddleNumbers.runtimeconfig.json
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\bin\Debug\net8.0\MiddleNumbers.dll
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\bin\Debug\net8.0\MiddleNumbers.pdb
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.AssemblyInfoInputs.cache
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.AssemblyInfo.cs
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.csproj.CoreCompileInputs.cache
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.sourcelink.json
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.dll
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\obj\Debug\net8.0\refint\MiddleNumbers.dll
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.pdb
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.genruntimeconfig.cache
+C:\Михаил Кръстев 9а\Arrays\MiddleNumbers\obj\Debug\net8.0\ref\MiddleNumbers.dll

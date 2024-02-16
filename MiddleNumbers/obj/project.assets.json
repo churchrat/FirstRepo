@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Михаил Кръстев 9а\\Arrays\\ArraySumAverage\\ArraySumAverage.csproj",
-      "projectName": "ArraySumAverage",
-      "projectPath": "C:\\Михаил Кръстев 9а\\Arrays\\ArraySumAverage\\ArraySumAverage.csproj",
+      "projectUniqueName": "C:\\Михаил Кръстев 9а\\Arrays\\MiddleNumbers\\MiddleNumbers.csproj",
+      "projectName": "MiddleNumbers",
+      "projectPath": "C:\\Михаил Кръстев 9а\\Arrays\\MiddleNumbers\\MiddleNumbers.csproj",
       "packagesPath": "C:\\Users\\STUDENTS-1212-4\\.nuget\\packages\\",
-      "outputPath": "C:\\Михаил Кръстев 9а\\Arrays\\ArraySumAverage\\obj\\",
+      "outputPath": "C:\\Михаил Кръстев 9а\\Arrays\\MiddleNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\STUDENTS-1212-4\\AppData\\Roaming\\NuGet\\NuGet.Config",
